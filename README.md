@@ -10,3 +10,7 @@ Com base no site do DATASUS, um banco de dados com todas as informações refere
 Selecionando a opção de "Mortalidade Geral" e o Estado de São Paulo, obtemos acesso a uma série de informações divididas por tópicos. Para esta análise utilizamos a configuração "Linha por Município, Coluna por ano, conteúdo por ocorrência do óbito", para então selecionarmos a causa, de acordo com o CID-10, 023 Doença por vírus da imunodeficiência humana (HIV).
 
 Para demais informações e análise dos resultados, acessar o arquivo "Mortes-por-HIV-no-Estado-de-São-Paulo.ipynb"
+
+Trabalho realizado pelos alunos da FATEC SJC:
+Arthur Barbero
+José Vinicius Ferreira Santana
