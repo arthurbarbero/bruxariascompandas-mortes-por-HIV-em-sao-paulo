@@ -12,5 +12,6 @@ Selecionando a opção de "Mortalidade Geral" e o Estado de São Paulo, obtemos 
 Para demais informações e análise dos resultados, acessar o arquivo "Mortes-por-HIV-no-Estado-de-São-Paulo.ipynb"
 
 Trabalho realizado pelos alunos da FATEC SJC:
-Arthur Barbero
+
+Arthur Barbero \n
 José Vinicius Ferreira Santana
