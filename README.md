@@ -1,4 +1,4 @@
-# bruxariascompandas-mortes-por-HIV-em-sao-paulo
+# Bruxarias com Pandas - Mortes por HIV em São Paulo
 Projeto de Análise de dados públicos utilizando a biblioteca Pandas e Matplotlib diretamente no Jupyter Notebook
 
 Com o intuito de realizar estruturação e análise de dados públicos, contamos com a linguagem Python e a biblioteca Pandas com auxílio da biblioteca Matplotlib para a realização de matrizes e plotagem de dados de forma gráfica, respectivamente.
